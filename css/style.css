@@ -8,6 +8,18 @@
    
    
   }
+
+ #color1{
+    background-color: cyan;
+    color: cyan;
+    border-radius: 10%;
+  }
+  
+  #color2{
+    background-color: rgb(32, 132, 32);
+    color: cyan;
+  }
+  
   
   nav {
     background-color: #3b3a3a;
